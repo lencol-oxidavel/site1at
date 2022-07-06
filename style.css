@@ -2,3 +2,31 @@
     padding: 0%;
     margin: 0%;
 }
+header,
+main,
+footer {
+    width: 100%;
+    text-align: left;
+}
+header {
+    background-color: aqua;
+    height: 100px;
+}
+main {
+    background-color: lightgreen;
+    height: 300px;
+}
+footer {
+    background-color: lightpink;
+    height: 100px;
+}
+h1,
+p {
+    padding-left: 20px;
+}
+img {
+    padding-left: 20px;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
